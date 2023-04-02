@@ -7,7 +7,9 @@ Vous pouvez créer un nouveau projet React en utilisant create-react-app, un out
 Exemple : 
  
 npx create-react-app mon-projet-react 
+
 cd mon-projet-react 
+
 npm start 
  
 Documentation officielle : [Create a New React App ](https://react.dev/learn/start-a-new-react-project)
